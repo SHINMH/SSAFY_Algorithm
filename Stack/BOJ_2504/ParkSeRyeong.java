@@ -1,4 +1,4 @@
-package stack_queue;
+package SSAFY_Algorithm.Stack.BOJ_2504;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -9,7 +9,7 @@ import java.io.OutputStreamWriter;
 import java.util.Stack;
 
 /* BufferedWriter 써보기!*/
-public class BOJ_2504_Bracket {
+public class ParkSeRyeong {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

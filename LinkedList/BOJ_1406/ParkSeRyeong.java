@@ -1,5 +1,4 @@
-package linkedlist;
-
+package SSAFY_Algorithm.LinkedList.BOJ_1406;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileInputStream;
@@ -9,7 +8,7 @@ import java.io.OutputStreamWriter;
 import java.util.LinkedList;
 import java.util.ListIterator;
 
-public class BOJ_1406_Editor {
+public class ParkSeRyeong {
 	public static void main(String[] args) throws IOException {
 		System.setIn(new FileInputStream("src/linkedlist/editor_test.txt"));
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
