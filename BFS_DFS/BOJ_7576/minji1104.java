@@ -1,4 +1,4 @@
-package com.study2;
+package SSAFY_Algorithm.BFS_DFS.BOJ_7576;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -14,7 +14,7 @@ import java.util.StringTokenizer;
 
 
 // 0212 - cnt 현재 각각 세어져서 고쳐야함 - 어떻게 ?
-public class BOJ_7576_토마토 {
+public class minji1104 {
 
 	static int m, n;
 	static int cnt, zeroCnt, minusCnt;
