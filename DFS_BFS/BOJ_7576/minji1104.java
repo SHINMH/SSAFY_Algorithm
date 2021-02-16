@@ -1,4 +1,4 @@
-package SSAFY_Algorithm.BFS_DFS.BOJ_7576;
+package SSAFY_Algorithm.DFS_BFS.BOJ_7576;
 
 import java.io.BufferedReader;
 import java.io.IOException;

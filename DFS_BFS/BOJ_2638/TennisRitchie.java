@@ -1,4 +1,4 @@
-package BOJ;
+package SSAFY_Algorithm.DFS_BFS.BOJ_2638;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -9,7 +9,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
-public class BOJ_2638_치즈 {
+public class TennisRitchie {
 	static int N, M, cnt;
 	static int[] dx = { 1, 0, -1, 0 }, dy = { 0, 1, 0, -1 }; // 해당 좌표 기준 상하좌우 이동 값 
 	static int[][] map; // 치즈 정보 저장

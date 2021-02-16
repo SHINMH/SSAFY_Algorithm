@@ -1,4 +1,4 @@
-package BOJ;
+package SSAFY_Algorithm.Stack.BOJ_1662;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.Stack;
 
-public class BOJ_1662_압축 {
+public class TennisRitchie {
 	static String zipped_str = null; // 압축된 문자열 저장
 	static Stack<Integer> stack = null;
 	final static int openParentheses = -1; // 여는 괄호

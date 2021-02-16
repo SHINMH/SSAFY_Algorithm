@@ -1,4 +1,4 @@
-package stack_queue;
+package SSAFY_Algorithm.Queue.BOJ_7576;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -10,7 +10,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BOJ_7576_Tomato {
+public class ParkSeRyeong {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		System.setIn(new FileInputStream("src/stack_queue/tomato_test.txt"));
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -1,4 +1,4 @@
-package stack_queue;
+package SSAFY_Algorithm.Queue.BOJ_15903;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -9,7 +9,7 @@ import java.io.OutputStreamWriter;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class BOJ_15903_CardCombination {
+public class ParkSeRyeong {
 	public static void main(String[] args) throws IOException {
 		System.setIn(new FileInputStream("src/stack_queue/card_test.txt"));
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
