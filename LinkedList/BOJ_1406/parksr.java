@@ -8,7 +8,7 @@ import java.io.OutputStreamWriter;
 import java.util.LinkedList;
 import java.util.ListIterator;
 
-public class ParkSeRyeong {
+public class parksr {
 	public static void main(String[] args) throws IOException {
 		System.setIn(new FileInputStream("src/linkedlist/editor_test.txt"));
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

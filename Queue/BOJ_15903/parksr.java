@@ -9,7 +9,7 @@ import java.io.OutputStreamWriter;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class ParkSeRyeong {
+public class parksr {
 	public static void main(String[] args) throws IOException {
 		System.setIn(new FileInputStream("src/stack_queue/card_test.txt"));
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

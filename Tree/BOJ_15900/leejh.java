@@ -1,4 +1,4 @@
-package BJ;
+package SSAFY_Algorithm.Tree.BOJ_15900;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -8,7 +8,7 @@ import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class BJ_15900_이지훈 {
+public class leejh {
 	static int EdgeLen = 0; // 트리의 총 간선 개수
 	static ArrayList<Integer>[] Graph; // 각 정점과 인접하고 있는 정점들을 저장하는 배열
 	static boolean[] visited; // 방문 여부 판단 배열

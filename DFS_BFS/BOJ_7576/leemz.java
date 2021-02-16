@@ -14,7 +14,7 @@ import java.util.StringTokenizer;
 
 
 // 0212 - cnt 현재 각각 세어져서 고쳐야함 - 어떻게 ?
-public class minji1104 {
+public class leemz {
 
 	static int m, n;
 	static int cnt, zeroCnt, minusCnt;

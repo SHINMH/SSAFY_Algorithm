@@ -1,4 +1,4 @@
-package linkedlist;
+package SSAFY_Algorithm.Queue.BOJ_17225;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -34,7 +34,7 @@ class Gift {
 
 }
 
-public class ParkSeRyeong {
+public class parksr {
 	@SuppressWarnings("unused")
 	public static void main(String[] args) throws IOException {
 		System.setIn(new FileInputStream("src/linkedlist/gift_test.txt"));

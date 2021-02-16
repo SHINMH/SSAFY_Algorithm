@@ -1,4 +1,4 @@
-package BOJ;
+package SSAFY_Algorithm.Tree.BOJ_4256;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class BOJ_4256_트리 {
+public class leejh {
 	static int T, n; // 테스트 케이스
 	static int[] inOrder, preOrder; // 중위,전위 순회 값 저장
 	static BufferedWriter bw;

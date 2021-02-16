@@ -1,4 +1,4 @@
-package tree;
+package SSAFY_Algorithm.Tree.BOJ_15900;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
-public class ParkSeRyeong {
+public class parksr {
 	static LinkedList<Integer>[] list;
 	static int total = 0;
 	

@@ -1,4 +1,4 @@
-package com.study2;
+package SSAFY_Algorithm.Queue.BOJ_1406;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class BOJ_1406_에디터 {
+public class leemz {
 	
 	static String str;
 	static int num;

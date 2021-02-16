@@ -1,4 +1,4 @@
-package BOJ;
+package SSAFY_Algorithm.Tree.BOJ_15900;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
-public class BJ_15900 {
+public class kangyj {
 	static LinkedList<Integer>[] list; // 트리 정보를 관리할 리스트
 	static boolean[] visited; // 방문한 노드 기록하는 배열
 	static int res = 0; // 결과 변수
