@@ -1,9 +1,9 @@
-package SSAFY_Algorithm.BOJ_20364;
+package SSAFY_Algorithm.Tree.BOJ_20364;
 
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class donggillee_dev {
+public class leedg {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

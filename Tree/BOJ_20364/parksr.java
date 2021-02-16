@@ -1,4 +1,4 @@
-package tree;
+package SSAFY_Algorithm.Tree.BOJ_20364;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class ParkSeRyeong {
+public class parksr {
 	public static void main(String[] args) throws IOException {
 		System.setIn(new FileInputStream("src/tree/ducks_test.txt"));
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

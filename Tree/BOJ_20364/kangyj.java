@@ -1,4 +1,4 @@
-package BOJ;
+package SSAFY_Algorithm.Tree.BOJ_20364;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class BJ_20364 {
+public class kangyj {
 	static boolean[] visited; // 점유한 땅인지 체크하는 배열
 	static Stack<Integer> div = new Stack<Integer>(); // 왼쪽 오른쪽 방향
 	static StringBuilder sb = new StringBuilder();

@@ -8,7 +8,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 // 왜 틀렸는지 모르겠음 
-public class BJ_20364 {
+public class leemz {
 
 	public static void main(String[] args) throws IOException {
 		// 오리들 한 줄로 대기 후 1번부터 번호대로 땅 가짐
