@@ -1,5 +1,5 @@
 
-package SSAFY_Algorithm.Queue.BOJ_2346;
+package SSAFY_Algorithm.LinkedList.BOJ_2346;
 
 import java.io.BufferedReader;
 import java.io.IOException;
