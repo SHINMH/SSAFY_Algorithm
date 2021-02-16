@@ -1,4 +1,4 @@
-package BJ;
+package SSAFY_Algorithm.Tree.BOJ_20364;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class BOJ_20364_이지훈 {
+public class leejh {
 	static boolean[] visited; // 땅이 점유 됐는지 여부 check
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
