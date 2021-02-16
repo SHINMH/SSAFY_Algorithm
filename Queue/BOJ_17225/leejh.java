@@ -1,4 +1,4 @@
-package BJ;
+package SSAFY_Algorithm.Queue.BOJ_17225;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -16,7 +16,7 @@ class Worker { // 직원의 정보를 담는 클래스
 	LinkedList<Integer> getNum = new LinkedList<>(); // 포장한 선물들의 번호
 }
 
-public class BOJ_17225_이지훈 {
+public class leejh {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

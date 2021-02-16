@@ -1,4 +1,4 @@
-package linkedlist;
+package SSAFY_Algorithm.Implementation.BOJ_17827;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class ParkSeRyeong {
+public class parksr {
 	public static void main(String[] args) throws IOException {
 		System.setIn(new FileInputStream("src/linkedlist/snail_test.txt"));
 		long start = System.currentTimeMillis();

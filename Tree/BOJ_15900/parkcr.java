@@ -1,4 +1,4 @@
-package LinkedListTree;
+package SSAFY_Algorithm.Tree.BOJ_15900;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class BOJ_15900 {
+public class parkcr {
 	static ArrayList<ArrayList<Integer>> tree= new ArrayList<>();
 	static int cnt;
 	static int N;

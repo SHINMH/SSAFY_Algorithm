@@ -1,4 +1,4 @@
-package codingStudty;
+package SSAFY_Algorithm.Tree.BOJ_15900;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -16,7 +16,7 @@ import java.util.StringTokenizer;
 // 성원 선 / 형석 후 
 
 // 홀수인 간선이면 이김  
-public class BJ_15900 {
+public class leemz {
 	static List<Integer>[] list;
 	static int n;
 	static boolean[] isConnected;

@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.Stack;
 
-public class TennisRitchie {
+public class leejh {
 	static String zipped_str = null; // 압축된 문자열 저장
 	static Stack<Integer> stack = null;
 	final static int openParentheses = -1; // 여는 괄호

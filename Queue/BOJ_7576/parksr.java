@@ -10,7 +10,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class ParkSeRyeong {
+public class parksr {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		System.setIn(new FileInputStream("src/stack_queue/tomato_test.txt"));
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

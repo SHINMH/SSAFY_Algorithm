@@ -19,7 +19,7 @@ import java.util.StringTokenizer;
 // 2. 2개 더한 값을 2개에 덮어쓰기
 // 3. 카드 다 더하기 
 
-public class minji1104 {
+public class leemz {
 
 	static int n, m;
 	static int[] arr;

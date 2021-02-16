@@ -1,4 +1,4 @@
-package SSAFY_Algorithm.BOJ_17225;
+package SSAFY_Algorithm.Queue.BOJ_17225;
 import java.io.*;
 import java.util.*;
 
@@ -10,8 +10,8 @@ import java.util.*;
 //문제해결 로직 내에서는 해당 알바생의 큐에 대기 중인 상품의 remain을 1 감소시켜주고
 //해당 상품의 시간은 update해주고 만약 remain이 0이면은 제거하고 업데이트 된 시간을 그 다음 상품에 적용해줌
 
-public class donggillee_dev {
-    public static class PresentInfo {
+public class leedg {
+    private static class PresentInfo {
         int inputTime;
         int remain;
         public PresentInfo(int input, int remain) {

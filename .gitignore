@@ -20,4 +20,4 @@ target/
 
 #Project exclude paths
 /out/
-/src/TestCode/
+/static

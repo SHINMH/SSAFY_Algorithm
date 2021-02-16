@@ -1,5 +1,5 @@
 
-package com.study2;
+package SSAFY_Algorithm.Queue.BOJ_2346;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -20,7 +20,7 @@ import java.util.StringTokenizer;
 
 // linkedlist 문제임 양쪽으로 움직일 수 있어야됨 .. 
 // 검색 = arrayList 빠름 / 추가, 삭제 = LinkedList 빠름 
-public class BOJ_2346_풍선터뜨리기 {
+public class leemz {
 
 	static int n;
 	static int point;

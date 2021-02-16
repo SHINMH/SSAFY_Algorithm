@@ -1,9 +1,9 @@
-package SSAFY_Algorithm.BOJ_15900;
+package SSAFY_Algorithm.Tree.BOJ_15900;
 
 import java.io.*;
 import java.util.*;
 
-public class donggillee_dev {
+public class leedg {
     static LinkedList<Integer>[] infoList;
     static int answer = 0;
     public static void main(String[] args) throws IOException {
