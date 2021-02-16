@@ -1,0 +1,23 @@
+# Eclipse
+bin/*
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+/out/
+/src/TestCode/
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+
+#Project exclude paths
+/out/
+/src/TestCode/
