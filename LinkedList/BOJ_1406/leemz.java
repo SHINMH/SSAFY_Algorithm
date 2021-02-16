@@ -1,4 +1,4 @@
-package SSAFY_Algorithm.Queue.BOJ_1406;
+package SSAFY_Algorithm.LinkedList.BOJ_1406;
 
 import java.io.BufferedReader;
 import java.io.IOException;
