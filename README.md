@@ -50,23 +50,3 @@
 7. `git commit` 명령을 통해 해당 문제에 대한 커밋 메세지를 작성합니다. (상단의 커밋 메세지 규칙 참고)
 8. `git push origin 생성한 브런치 명` 명령으로 remote repository에 브런치를 push합니다.
  
-# pr 방법
-1. Pull requests 탭으로 이동 후 New pull request 클릭!
-![pr_1](/static/pr_1.png)
-
-2. 자신이 push한 branch 선택
-![pr_2](/static/pr_2.png)
-
-3. Pull request 내용 입력
-    ![pr_3](/static/pr_3.png)
-    제목 : `[문제푼 사이트_문제번호] 문제 이름`
-
-    본문
-     * 문제 해결을 위한 아이디어
-    
-    label
-     * Assignees : 자신 선택
-     * Reviewer : 자신의 팀원 혹은 문제를 해결한 사람
-     * Label : 문제 출처, 문제의 난이도 등 선택
-    
- 
