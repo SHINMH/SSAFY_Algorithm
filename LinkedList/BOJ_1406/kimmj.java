@@ -1,4 +1,4 @@
-package LinkedList.BOJ_1406;
+package LinkedList/BOJ_1406;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
